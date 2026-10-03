@@ -65,7 +65,7 @@
 
 | Việc | AI làm hay bạn làm? | Bạn kiểm chứng/phán đoán lại thế nào? |
 |---|---|---|
-| Chọn Cursor làm sản phẩm phân tích | Bạn chọn theo yêu cầu chủ đề trong prompt. | Xác nhận sản phẩm đáp ứng tiêu chí có AI là phần cốt lõi, có changelog công khai và use case coding rõ. |
+| Chọn Cursor làm sản phẩm phân tích | AI hỗ trợ tìm chủ đề, người ra quyết định chủ đề là tôi | Xác nhận sản phẩm đáp ứng tiêu chí có AI là phần cốt lõi, có changelog công khai và use case coding rõ. |
 | Tìm và tóm tắt mốc sản phẩm | AI (GitHub Copilot) tìm/đọc các changelog và bài viết chính thức, đề xuất 8 mốc và chèn URL nguồn. | Đối chiếu ngày và nội dung với từng link gốc ở §1. Nguồn chính trong bài là của Cursor; số liệu adoption Enterprise được ghi rõ là tuyên bố của công ty, không coi là kiểm toán độc lập. |
 | Revert nguyên lý, phân tích segment và 4 forces | AI soạn bản phân tích từ các tính năng đã công bố; đây là diễn giải, không phải dữ liệu phỏng vấn. | Bạn cần tự dùng thử Cursor và kiểm tra thêm review/community của developer để xác nhận hoặc sửa chân dung JTBD, lực switching cost và nhận định về moat. Bài hiện chưa có kết quả dùng thử hay khảo sát độc lập nên không khẳng định đã làm các bước đó. |
 | Viết ba dự đoán | AI tạo giả thuyết dựa trên timeline, segment và pricing hiện có. | Dự đoán là ý kiến, không phải roadmap. Bạn cần quyết định có đồng ý hay không, giữ nguyên giả định nào và cập nhật nhận định nếu có thông tin mới trước khi nộp. |
